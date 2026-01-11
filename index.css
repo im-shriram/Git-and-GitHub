@@ -2,4 +2,12 @@ head {
     background-color: bisque;
     height: 100px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0%;
+    background-color: black;
+    height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0%;
 }
